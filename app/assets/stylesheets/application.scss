@@ -6,3 +6,21 @@
 @import "font-awesome-sprockets";
 @import "font-awesome";
 
+#wrap {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+nav {
+  margin-bottom: 20px;
+}
+
+footer {
+  margin-top: auto;
+}
+
+main {
+  margin: 0 10% 20px 10%;
+  width: 80%;
+}
