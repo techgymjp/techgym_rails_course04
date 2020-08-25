@@ -1,0 +1,9 @@
+ja:
+  activerecord:
+    models:
+      task: タスク  #g
+
+    attributes:
+      task:
+        is_finish: 終了したかどうか  #g
+        name: タスク名  #g
