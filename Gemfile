@@ -14,6 +14,7 @@ gem 'bootsnap', '>= 1.1.0', require: false
 gem 'i18n_generators', '~> 2.2', '>= 2.2.2'
 gem 'bootstrap', '~> 4.4', '>= 4.4.1'
 gem 'font-awesome-sass', '~> 5.12'
+gem 'jquery-rails', '~> 4.4'
 
 group :development, :test do
   gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
