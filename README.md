@@ -1,24 +1,37 @@
-# README
+# テックジム Railsコース 第四章 「rails new」
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+<目標>ゼロからアプリケーションを作成しよう
 
-Things you may want to cover:
+<まなぶこと>
 
-* Ruby version
+・環境構築（AWS Cloud9）
 
-* System dependencies
+・Ruby on Railsの基本開発
 
-* Configuration
+・初期アプリケーションの作成(rails new)
 
-* Database creation
+・Gemfileの修正
 
-* Database initialization
+・日本語対応
 
-* How to run the test suite
+・自動生成されるファイルの設定
 
-* Services (job queues, cache servers, search engines, etc.)
+・デザインテンプレートの導入
 
-* Deployment instructions
+## オープン講座
+テキスト
+https://github.com/techgymjp/techgym_rails_course04/blob/master/RailsCourse04.pdf
 
-* ...
+動画(環境構築)
+
+https://www.youtube.com/watch?v=438j61lTLmk&list=PL9u04bPGBuUPVseIvQqOCeOydgczDrmhe&index=54
+
+動画(オープン講座) 
+
+https://www.youtube.com/watch?v=HPKAiPt2nAY&list=PL9u04bPGBuUPVseIvQqOCeOydgczDrmhe&index=55
+
+オープン講座アンケート
+https://forms.gle/EvFhUKnpZhxKUp8q8
+
+Railsコース紹介ページ
+https://techgym.jp/?p=18356
