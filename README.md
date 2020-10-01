@@ -2,7 +2,7 @@
 
 <目標>ゼロからアプリケーションを作成しよう
 
-<まなぶこと>
+<学ぶこと>
 
 ・環境構築（AWS Cloud9）
 
@@ -21,6 +21,8 @@
 ## オープン講座
 テキスト
 https://github.com/techgymjp/techgym_rails_course04/blob/master/RailsCourse04.pdf
+
+実行環境(Cloud9) https://ap-northeast-1.console.aws.amazon.com/cloud9
 
 動画(環境構築)
 
